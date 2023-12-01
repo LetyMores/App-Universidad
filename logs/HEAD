@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 0f175a4275b24eaffc60fb954fab2b61450f2a0a LetyMores <lety_mores@outlook.com> 1694204459 -0300	clone: from https://github.com/Enfermeria/ULP70.git
+0f175a4275b24eaffc60fb954fab2b61450f2a0a 0f175a4275b24eaffc60fb954fab2b61450f2a0a LetyMores <lety_mores@outlook.com> 1694456566 -0300	reset: moving to HEAD
+0f175a4275b24eaffc60fb954fab2b61450f2a0a bf836a4402b49888a4b832f608d51db438a2c50f LetyMores <lety_mores@outlook.com> 1694456568 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+bf836a4402b49888a4b832f608d51db438a2c50f 6d88a2fffd931106460c1392f5715d6a7dde4675 LetyMores <lety_mores@outlook.com> 1694461024 -0300	commit: Se crea pantalla de login
+6d88a2fffd931106460c1392f5715d6a7dde4675 90b92fe17c298f8f132795eb3ccb8cb9acece8ea LetyMores <lety_mores@outlook.com> 1694461054 -0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+90b92fe17c298f8f132795eb3ccb8cb9acece8ea 9838ce7041d8fd1397c239b9eb93df8a47872fa4 LetyMores <lety_mores@outlook.com> 1694461267 -0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+9838ce7041d8fd1397c239b9eb93df8a47872fa4 84a00ce6af6bd6bb34063aa4c233bc4225206089 LetyMores <lety_mores@outlook.com> 1694462598 -0300	commit: Login 2° etapa
+84a00ce6af6bd6bb34063aa4c233bc4225206089 f8528b3a2cd1d9023c670d5faaac4136c9c592a2 LetyMores <lety_mores@outlook.com> 1694542721 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+f8528b3a2cd1d9023c670d5faaac4136c9c592a2 be298760ce653381f5cd6527f3717051611527f5 LetyMores <lety_mores@outlook.com> 1694546722 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+be298760ce653381f5cd6527f3717051611527f5 f47d98373d7d667618dd1ad2251327751b6fd9fd LetyMores <lety_mores@outlook.com> 1694546954 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+f47d98373d7d667618dd1ad2251327751b6fd9fd 8125e24fd12e89f218db4b5525dd264f90edd4dd LetyMores <lety_mores@outlook.com> 1694547115 -0300	commit: Punto modificado
+8125e24fd12e89f218db4b5525dd264f90edd4dd 0404f9c1f709cdad3ce8657a49fcf34c14f43ce2 LetyMores <lety_mores@outlook.com> 1694552499 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+0404f9c1f709cdad3ce8657a49fcf34c14f43ce2 1ced49be239cc575db70369fd565621ced327d6c LetyMores <lety_mores@outlook.com> 1694630779 -0300	commit: Modificación grafico
+1ced49be239cc575db70369fd565621ced327d6c d892308ce946fca585b57008de7ae4cab4d1fb4e LetyMores <lety_mores@outlook.com> 1694631623 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+d892308ce946fca585b57008de7ae4cab4d1fb4e 690e0b8b76a16a3ca7104cfa81c7706b41ce4ef1 LetyMores <lety_mores@outlook.com> 1694632967 -0300	commit: Modificación login
+690e0b8b76a16a3ca7104cfa81c7706b41ce4ef1 670cfdbaabaecf7264e007648551e9fc1f3387b3 LetyMores <lety_mores@outlook.com> 1694638238 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+670cfdbaabaecf7264e007648551e9fc1f3387b3 acf9b0270235fd2711de6fe916b9b66d1be797c0 LetyMores <lety_mores@outlook.com> 1694717354 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+acf9b0270235fd2711de6fe916b9b66d1be797c0 e96282fd79e6210c038c4989eb0b81ee0f044580 LetyMores <lety_mores@outlook.com> 1694724656 -0300	commit: GestionInscripciones
+e96282fd79e6210c038c4989eb0b81ee0f044580 2cb49d827d20f6aded1c64aef33ea1df78dfb33a LetyMores <lety_mores@outlook.com> 1694810587 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+2cb49d827d20f6aded1c64aef33ea1df78dfb33a 6881abd20a103f91d06ab963dade3789e28d4891 LetyMores <lety_mores@outlook.com> 1695063685 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+6881abd20a103f91d06ab963dade3789e28d4891 e612c6dedd28636dc27a2cb7d3a5ee06c637da27 LetyMores <lety_mores@outlook.com> 1695065144 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+e612c6dedd28636dc27a2cb7d3a5ee06c637da27 b42df3d2ff937b89d2f890d81f15c72df4d38ddf LetyMores <lety_mores@outlook.com> 1695070287 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+b42df3d2ff937b89d2f890d81f15c72df4d38ddf 85b80ccf235c39c976e56c6c26d822a8e18806f7 LetyMores <lety_mores@outlook.com> 1695154397 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+85b80ccf235c39c976e56c6c26d822a8e18806f7 7bd29cc7c693743101484e32fc2c8ccbcb21b719 LetyMores <lety_mores@outlook.com> 1695157483 -0300	commit: Gestión Alumno x Materia casi listo
+7bd29cc7c693743101484e32fc2c8ccbcb21b719 666a2680d1d866915c59ca7a5846dcaa80293c69 LetyMores <lety_mores@outlook.com> 1695168861 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+666a2680d1d866915c59ca7a5846dcaa80293c69 406ca5868aae992729d912f51144f3c9a438292b LetyMores <lety_mores@outlook.com> 1695321313 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+406ca5868aae992729d912f51144f3c9a438292b 35f706a7fb367a0081c030dd9e052edfa8946604 LetyMores <lety_mores@outlook.com> 1695326574 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+35f706a7fb367a0081c030dd9e052edfa8946604 10458043587509953ec02a3ff8c6518a40580fec LetyMores <lety_mores@outlook.com> 1695329928 -0300	commit: Se modificó login...
+10458043587509953ec02a3ff8c6518a40580fec 4182b78da7f01c628d0e4512aed3daa9627bcb46 LetyMores <lety_mores@outlook.com> 1695403792 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+4182b78da7f01c628d0e4512aed3daa9627bcb46 398b8e5eaaf351278506af6190b0e53422a317ea LetyMores <lety_mores@outlook.com> 1695407291 -0300	commit: Modificación de tipografia
+398b8e5eaaf351278506af6190b0e53422a317ea 6ebbddcb7d540e6d19b85be6aa6f10352036013e LetyMores <lety_mores@outlook.com> 1695410271 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+6ebbddcb7d540e6d19b85be6aa6f10352036013e 0ba2e26a993585605c95412ed731091e9eefbc97 LetyMores <lety_mores@outlook.com> 1695411204 -0300	commit: Carga de fondo Pantalla Ppal
+0ba2e26a993585605c95412ed731091e9eefbc97 df827ee4eb2d8031dc1dc1d73a7cf04600d370f7 LetyMores <lety_mores@outlook.com> 1695411787 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+df827ee4eb2d8031dc1dc1d73a7cf04600d370f7 9bc3c9f5e9ad7baf5b03bedde595f64a2f42a183 LetyMores <lety_mores@outlook.com> 1695415377 -0300	commit: Fondo final
+9bc3c9f5e9ad7baf5b03bedde595f64a2f42a183 aef9404c2b9242e8dfc1634041c019d08ebc4c80 LetyMores <lety_mores@outlook.com> 1695415381 -0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+aef9404c2b9242e8dfc1634041c019d08ebc4c80 84eacf92a04cb3a97a57e9d168d6fd1c6f6df1b1 LetyMores <lety_mores@outlook.com> 1695665361 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+84eacf92a04cb3a97a57e9d168d6fd1c6f6df1b1 81f1494b0f7a3152e0829771637fe3f08cdb8027 LetyMores <lety_mores@outlook.com> 1695666818 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+81f1494b0f7a3152e0829771637fe3f08cdb8027 265f3d3f6aa0a87dff967d0c1c95ff828732971b LetyMores <lety_mores@outlook.com> 1695667412 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+265f3d3f6aa0a87dff967d0c1c95ff828732971b f46efff3b7eb97799537ddc5c000449e992ad53f LetyMores <lety_mores@outlook.com> 1695672468 -0300	commit: Acerca de los creadores
+f46efff3b7eb97799537ddc5c000449e992ad53f b1e86a78787eb01cb70a46fc3cfeff575aa4f6e8 LetyMores <lety_mores@outlook.com> 1695672781 -0300	commit: Acerca de...
+b1e86a78787eb01cb70a46fc3cfeff575aa4f6e8 1547feb8997e6ac921637bb4d5ae7787e16c19ba LetyMores <lety_mores@outlook.com> 1695756653 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+1547feb8997e6ac921637bb4d5ae7787e16c19ba 4c729256eb374f31f7dd825b0edd89c8f77ca0bc LetyMores <lety_mores@outlook.com> 1695904482 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+4c729256eb374f31f7dd825b0edd89c8f77ca0bc f515b76808867e9d85e72ff858f36023b100fcda LetyMores <lety_mores@outlook.com> 1695924798 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+f515b76808867e9d85e72ff858f36023b100fcda 9b28f555594383fb5cbc14afaccaf9a5c345fe05 LetyMores <lety_mores@outlook.com> 1695927254 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
+9b28f555594383fb5cbc14afaccaf9a5c345fe05 a5f1fc52c48f26cf1a71a5252bab931e403cb769 LetyMores <lety_mores@outlook.com> 1696358560 -0300	pull --ff --recurse-submodules --progress origin: Fast-forward
